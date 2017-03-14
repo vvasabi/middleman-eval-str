@@ -1,0 +1,2 @@
+content: |
+  This is a #{link_to 'link', 'test.html'}.
